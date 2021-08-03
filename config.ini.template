@@ -1,0 +1,9 @@
+[db]
+user = 
+password = 
+host = 
+port = 
+database = 
+
+[output]
+file = pg_models_generated.py
